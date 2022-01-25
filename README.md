@@ -8,8 +8,7 @@
 
 ### -- About
 
-#### Sistema de petshop para uma empresa fictícia, voltado à venda de produtos a animais domésticos, e o cadastro de pets para o serviço de banho e tosa, além do site 
-institucional da empresa. 
+#### Pet Shop web system, for a fictitious enterprise, focused on sale of products for pets, and the cadaster of pets to the grooming service, in addition to the institutional website.
 
 ### -- Technologies
 
@@ -31,7 +30,7 @@ institucional da empresa.
 
 ### -- Sobre
 
-#### Sistema de petshop para uma empresa fictícia, voltado à venda de produtos a animais domésticos, e o cadastro de pets para o serviço de banho e tosa, além do site 
+#### Sistema de pet shop para uma empresa fictícia, voltado à venda de produtos a animais domésticos, e o cadastro de pets para o serviço de banho e tosa, além do site 
 institucional da empresa. 
 
 ### -- Tecnologias
