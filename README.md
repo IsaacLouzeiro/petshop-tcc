@@ -30,8 +30,7 @@
 
 ### -- Sobre
 
-#### Sistema de pet shop para uma empresa fictícia, voltado à venda de produtos a animais domésticos, e o cadastro de pets para o serviço de banho e tosa, além do site 
-institucional da empresa. 
+#### Sistema de pet shop para uma empresa fictícia, voltado à venda de produtos a animais domésticos, e o cadastro de pets para o serviço de banho e tosa, além do site institucional.
 
 ### -- Tecnologias
 
