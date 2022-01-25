@@ -8,7 +8,7 @@
 
 ### -- About
 
-#### Pet Shop web system, for a fictitious enterprise, focused on sale of products for pets, and the cadaster of pets to the grooming service, in addition to the institutional website.
+#### Pet Shop web system, for a fictitious enterprise, focused on sale of products for pets, and the register of pets to the grooming service, in addition to the institutional website.
 
 ### -- Technologies
 
